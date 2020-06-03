@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/lazyraccoon_144.png">
+    <img alt="Vue logo" src="./assets/lazyraccoon.png">
     <HelloWorld msg="Mapacheamos???"/>
   </div>
 </template>
